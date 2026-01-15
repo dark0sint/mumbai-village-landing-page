@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, sans-serif;
+}
+header {
+  background-color: #007bff;
+}
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+.container {
+  margin-top: 50px;
+}
